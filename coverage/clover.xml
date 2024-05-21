@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1716332738565" clover="3.2.0">
+  <project timestamp="1716332738565" name="All files">
+    <metrics statements="10" coveredstatements="8" conditionals="4" coveredconditionals="2" methods="7" coveredmethods="7" elements="21" coveredelements="17" complexity="0" loc="10" ncloc="10" packages="1" files="2" classes="2"/>
+    <file name="app.js" path="/Users/nikitasolovev/Desktop/Контейнеры/-/src/app.js">
+      <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="5"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="7" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="10" count="4" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
+    <file name="map.js" path="/Users/nikitasolovev/Desktop/Контейнеры/-/src/map.js">
+      <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="7" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
